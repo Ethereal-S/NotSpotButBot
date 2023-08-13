@@ -2,13 +2,11 @@
 	"categories": {
 		"guides": {
 			"name": "Guides",
-			"desc": "Guides on how to do things in the app",
-			"icon": 58121
+			"desc": "Commands and what they do"
 		},
 		"support": {
-			"name": "Support",
-			"desc": "Articles on how to resolve issues with the app",
-			"icon": 58912
+			"name": "Key",
+			"desc": "Keywords and how they prevent people sending bad messages"
 		},
 		"rf": {
 			"name": "Requested Features",
@@ -16,21 +14,20 @@
 			"icon": 58873
 		}
 	},
-	"faq": [
+	"Commands": [
 		{
-			"friendlyName": "How to add friends",
+			"friendlyName": "How set Keywords",
 			"category": "guides",
 			"names": [
-				"add-friend",
-				"add-friends",
-				"addfriend",
-				"addfriends",
-				"af",
-				"addingfriends",
-				"addingfriend"
+				"key-word",
+				"key-words",
+				"keyword",
+				"keywords",
+				"kw",
+				"key"
 			],
-			"description": "Explains how to troubleshoot not being able to add a friend",
-			"title": "Add friend",
+			"description": "Explains how to add and manage keywords",
+			"title": "Keywords",
 			"text": "If you and your friends are unable to add each other as friends, or can't find each other as friends, make sure that you are using a case sensitive username when adding each other. Additionally, you can add people by using their user ID. "
 		},
 		{
